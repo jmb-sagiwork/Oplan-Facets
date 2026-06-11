@@ -8,7 +8,7 @@ recognition, OCR, or coordinate-based clicking.
 
 ## Download
 
-[Download the latest FacetsClickTest.exe](https://github.com/jmb-sagiwork/Oplan-Facets/releases/latest/download/FacetsClickTest.exe)
+[Download FacetsClickTest.exe](https://github.com/jmb-sagiwork/Oplan-Facets/raw/refs/heads/main/dist/FacetsClickTest.exe)
 
 ## Requirements
 
