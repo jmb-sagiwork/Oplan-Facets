@@ -6,6 +6,10 @@ window and double-clicks the TreeItem named `Hospital Claims Processing`.
 It uses only `pywinauto` with the UIA backend. It does not use image
 recognition, OCR, or coordinate-based clicking.
 
+## Download
+
+[Download the latest FacetsClickTest.exe](https://github.com/jmb-sagiwork/Oplan-Facets/releases/latest/download/FacetsClickTest.exe)
+
 ## Requirements
 
 - Windows
